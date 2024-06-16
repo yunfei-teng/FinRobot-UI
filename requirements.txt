@@ -1,0 +1,5 @@
+streamlit
+openai==1.7.2
+streamlit_pdf_viewer
+watchdog
+matplotlib
